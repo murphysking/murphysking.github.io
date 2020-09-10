@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>魔界</title>
+  <title>魔界的私人领地</title>
   
-  <subtitle>魔君的博客</subtitle>
+  <subtitle>魔界的私人领地</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://murphysking.github.io/"/>
